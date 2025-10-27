@@ -33,7 +33,7 @@ void calculate() {
     while (true) {
         cout << "Input range a b (a <= b): ";
         if (!(cin >> a >> b)) {
-            cout << "[Error] Invalid input for range. Try again." << endl;
+            cout << "[Error] Invalid input for range. Try again." << endl;// temporary test for commit #14
             cin.clear();
             cin.ignore(numeric_limits<streamsize>::max(), '\n');
             continue;
