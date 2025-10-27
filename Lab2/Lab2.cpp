@@ -19,7 +19,7 @@ void calculate() {
         }
         if (floor(tempN) != tempN) {
             cout << "[Error] n must be an integer." << endl;
-            continue;
+            continue; 
         }
         n = static_cast<int>(tempN);
         if (n < 4) {
