@@ -24,7 +24,7 @@ void calculate() {
         n = static_cast<int>(tempN);
         if (n < 4) {
             cout << "[Error] n must be >= 4." << endl;
-            continue;
+            continue; // temporary test for commit #14
         }
         break;
     }
