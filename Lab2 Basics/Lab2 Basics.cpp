@@ -27,7 +27,7 @@ void calculate() {
             continue;
         }
         break;
-    }   //12323132121
+    }   //12323
 
   
     while (true) {
