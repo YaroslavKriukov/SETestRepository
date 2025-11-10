@@ -27,7 +27,7 @@ void calculate() {
             continue;
         }
         break;
-    }
+    } ///12
 
 
     while (true) {
