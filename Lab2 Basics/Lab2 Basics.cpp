@@ -27,9 +27,9 @@ void calculate() {
             continue;
         }
         break;
-    }
+    }   //12323132121
 
-
+  
     while (true) {
         cout << "Input range a b (a <= b): ";
         if (!(cin >> a >> b)) {
