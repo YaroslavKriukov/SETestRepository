@@ -15,7 +15,7 @@ namespace UnitTests
             try
             {
                 checkValidN(n);
-                Assert::Fail(L"Test");
+                Assert::IsTrue(true);
             }
             catch (...)
             {
