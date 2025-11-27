@@ -73,7 +73,7 @@ void calculate() {
     cout << "---------------------------" << endl;
 
     bool hasResults = false;
-
+    //123132321
     for (x = a; x <= b; x += step) {
         y = 0.0;
 
